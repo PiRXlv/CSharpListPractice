@@ -1,0 +1,5 @@
+D:\Sources\Learning\CSharpListPractice\bin\Debug\listpractice.exe
+D:\Sources\Learning\CSharpListPractice\bin\Debug\listpractice.pdb
+D:\Sources\Learning\CSharpListPractice\obj\Debug\ListPractice.csprojResolveAssemblyReference.cache
+D:\Sources\Learning\CSharpListPractice\obj\Debug\listpractice.exe
+D:\Sources\Learning\CSharpListPractice\obj\Debug\listpractice.pdb
